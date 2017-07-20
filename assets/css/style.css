@@ -1,0 +1,103 @@
+body{
+	background: #dddddd;
+	font-family: "Georgia";
+
+}
+
+h1{
+	background: #4aaaa5;
+	color: white;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 5px;
+	width: 400px;
+	height: 80px;
+	font-size: 40px;
+	position: relative;
+	left: 6%;
+}
+
+.container{
+	background: #ffffff;
+	height: 400px;
+	width: 800px;
+	position: fixed;
+	left: 5%;
+	top: 35%;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 5px;
+}
+
+h2{
+	color: #4aaaa5;
+	font-size: 30px;
+}
+
+#button{
+	background: #4aaaa5;
+	color: white;
+	font-size: 18px;
+}
+
+h3{
+	z-index: 1;
+	text-align: center;
+	font-size: 28px;
+	background: white;
+	height: 254px;
+	width: 235px;
+	position: fixed;
+	left: 78%;
+	top: -2%;
+	color: #4aaaa5
+}
+
+.textfield{
+	position: relative;
+	left: 5%;
+}
+
+#message{
+	position: relative;
+	left: 5%;
+}
+
+
+.hyperlinks{
+	position: relative;
+	left: 55%;
+}
+
+.box{
+	background: white;
+	height: 500px;
+	width: 600px;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 5px;
+}
+
+#image{
+	float: left;
+}
+
+.socialMedia-2{
+	position: relative;
+	left: 80%;
+	z-index: 2;
+}
+
+.portfolio-box{
+	background: white;
+	height: 700px;
+	width: 600px;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 5px;
+}
+
+.portfolio-pics{
+	height: 285px;
+	width: 285px;
+}
